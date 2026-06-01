@@ -1,16 +1,6 @@
 ﻿[
     {
         "section":  "AI_Agent",
-        "title":  "Daily - AI_Agent - 2026-06-01",
-        "path":  "content/AI_Agent/일일_업데이트/2026-06-01.md"
-    },
-    {
-        "section":  "AI_Agent",
-        "title":  "Daily - AI_Agent - 2026-06-02",
-        "path":  "content/AI_Agent/일일_업데이트/2026-06-02.md"
-    },
-    {
-        "section":  "AI_Agent",
         "title":  "Monthly Research - AI_Agent - 2026-05",
         "path":  "content/AI_Agent/월간_논문_특허/2026-05.md"
     },
@@ -38,16 +28,6 @@
         "section":  "AI_Agent",
         "title":  "트렌드_요약",
         "path":  "content/AI_Agent/트렌드_요약.md"
-    },
-    {
-        "section":  "AI_Infrastructure",
-        "title":  "Daily - AI_Infrastructure - 2026-06-01",
-        "path":  "content/AI_Infrastructure/일일_업데이트/2026-06-01.md"
-    },
-    {
-        "section":  "AI_Infrastructure",
-        "title":  "Daily - AI_Infrastructure - 2026-06-02",
-        "path":  "content/AI_Infrastructure/일일_업데이트/2026-06-02.md"
     },
     {
         "section":  "AI_Infrastructure",
@@ -81,16 +61,6 @@
     },
     {
         "section":  "Connectivity_5GAdvanced_6G",
-        "title":  "Daily - Connectivity_5GAdvanced_6G - 2026-06-01",
-        "path":  "content/Connectivity_5GAdvanced_6G/일일_업데이트/2026-06-01.md"
-    },
-    {
-        "section":  "Connectivity_5GAdvanced_6G",
-        "title":  "Daily - Connectivity_5GAdvanced_6G - 2026-06-02",
-        "path":  "content/Connectivity_5GAdvanced_6G/일일_업데이트/2026-06-02.md"
-    },
-    {
-        "section":  "Connectivity_5GAdvanced_6G",
         "title":  "Monthly Research - Connectivity_5GAdvanced_6G - 2026-05",
         "path":  "content/Connectivity_5GAdvanced_6G/월간_논문_특허/2026-05.md"
     },
@@ -118,16 +88,6 @@
         "section":  "Connectivity_5GAdvanced_6G",
         "title":  "트렌드_요약",
         "path":  "content/Connectivity_5GAdvanced_6G/트렌드_요약.md"
-    },
-    {
-        "section":  "Cybersecurity",
-        "title":  "Daily - Cybersecurity - 2026-06-01",
-        "path":  "content/Cybersecurity/일일_업데이트/2026-06-01.md"
-    },
-    {
-        "section":  "Cybersecurity",
-        "title":  "Daily - Cybersecurity - 2026-06-02",
-        "path":  "content/Cybersecurity/일일_업데이트/2026-06-02.md"
     },
     {
         "section":  "Cybersecurity",
@@ -161,16 +121,6 @@
     },
     {
         "section":  "Edge_OnDevice_AI",
-        "title":  "Daily - Edge_OnDevice_AI - 2026-06-01",
-        "path":  "content/Edge_OnDevice_AI/일일_업데이트/2026-06-01.md"
-    },
-    {
-        "section":  "Edge_OnDevice_AI",
-        "title":  "Daily - Edge_OnDevice_AI - 2026-06-02",
-        "path":  "content/Edge_OnDevice_AI/일일_업데이트/2026-06-02.md"
-    },
-    {
-        "section":  "Edge_OnDevice_AI",
         "title":  "Monthly Research - Edge_OnDevice_AI - 2026-05",
         "path":  "content/Edge_OnDevice_AI/월간_논문_특허/2026-05.md"
     },
@@ -198,16 +148,6 @@
         "section":  "Edge_OnDevice_AI",
         "title":  "트렌드_요약",
         "path":  "content/Edge_OnDevice_AI/트렌드_요약.md"
-    },
-    {
-        "section":  "Mineral_Resources",
-        "title":  "Daily - Mineral_Resources - 2026-06-01",
-        "path":  "content/Mineral_Resources/일일_업데이트/2026-06-01.md"
-    },
-    {
-        "section":  "Mineral_Resources",
-        "title":  "Daily - Mineral_Resources - 2026-06-02",
-        "path":  "content/Mineral_Resources/일일_업데이트/2026-06-02.md"
     },
     {
         "section":  "Mineral_Resources",
@@ -241,16 +181,6 @@
     },
     {
         "section":  "Quantum",
-        "title":  "Daily - Quantum - 2026-06-01",
-        "path":  "content/Quantum/일일_업데이트/2026-06-01.md"
-    },
-    {
-        "section":  "Quantum",
-        "title":  "Daily - Quantum - 2026-06-02",
-        "path":  "content/Quantum/일일_업데이트/2026-06-02.md"
-    },
-    {
-        "section":  "Quantum",
         "title":  "Monthly Research - Quantum - 2026-05",
         "path":  "content/Quantum/월간_논문_특허/2026-05.md"
     },
@@ -278,16 +208,6 @@
         "section":  "Quantum",
         "title":  "트렌드_요약",
         "path":  "content/Quantum/트렌드_요약.md"
-    },
-    {
-        "section":  "Space",
-        "title":  "Daily - Space - 2026-06-01",
-        "path":  "content/Space/일일_업데이트/2026-06-01.md"
-    },
-    {
-        "section":  "Space",
-        "title":  "Daily - Space - 2026-06-02",
-        "path":  "content/Space/일일_업데이트/2026-06-02.md"
     },
     {
         "section":  "Space",
