@@ -6,11 +6,6 @@
     },
     {
         "section":  "AI_Agent",
-        "title":  "업데이트_히스토리",
-        "path":  "content/AI_Agent/업데이트_히스토리.md"
-    },
-    {
-        "section":  "AI_Agent",
         "title":  "주요기업",
         "path":  "content/AI_Agent/주요기업.md"
     },
@@ -28,11 +23,6 @@
         "section":  "AI_Infrastructure",
         "title":  "대표기업_뉴스_논문_특허",
         "path":  "content/AI_Infrastructure/대표기업_뉴스_논문_특허.md"
-    },
-    {
-        "section":  "AI_Infrastructure",
-        "title":  "업데이트_히스토리",
-        "path":  "content/AI_Infrastructure/업데이트_히스토리.md"
     },
     {
         "section":  "AI_Infrastructure",
@@ -56,11 +46,6 @@
     },
     {
         "section":  "Connectivity_5GAdvanced_6G",
-        "title":  "업데이트_히스토리",
-        "path":  "content/Connectivity_5GAdvanced_6G/업데이트_히스토리.md"
-    },
-    {
-        "section":  "Connectivity_5GAdvanced_6G",
         "title":  "주요기업",
         "path":  "content/Connectivity_5GAdvanced_6G/주요기업.md"
     },
@@ -78,11 +63,6 @@
         "section":  "Cybersecurity",
         "title":  "대표기업_뉴스_논문_특허",
         "path":  "content/Cybersecurity/대표기업_뉴스_논문_특허.md"
-    },
-    {
-        "section":  "Cybersecurity",
-        "title":  "업데이트_히스토리",
-        "path":  "content/Cybersecurity/업데이트_히스토리.md"
     },
     {
         "section":  "Cybersecurity",
@@ -106,11 +86,6 @@
     },
     {
         "section":  "Edge_OnDevice_AI",
-        "title":  "업데이트_히스토리",
-        "path":  "content/Edge_OnDevice_AI/업데이트_히스토리.md"
-    },
-    {
-        "section":  "Edge_OnDevice_AI",
         "title":  "주요기업",
         "path":  "content/Edge_OnDevice_AI/주요기업.md"
     },
@@ -128,11 +103,6 @@
         "section":  "Mineral_Resources",
         "title":  "대표기업_뉴스_논문_특허",
         "path":  "content/Mineral_Resources/대표기업_뉴스_논문_특허.md"
-    },
-    {
-        "section":  "Mineral_Resources",
-        "title":  "업데이트_히스토리",
-        "path":  "content/Mineral_Resources/업데이트_히스토리.md"
     },
     {
         "section":  "Mineral_Resources",
@@ -156,11 +126,6 @@
     },
     {
         "section":  "Quantum",
-        "title":  "업데이트_히스토리",
-        "path":  "content/Quantum/업데이트_히스토리.md"
-    },
-    {
-        "section":  "Quantum",
         "title":  "주요기업",
         "path":  "content/Quantum/주요기업.md"
     },
@@ -178,11 +143,6 @@
         "section":  "Space",
         "title":  "대표기업_뉴스_논문_특허",
         "path":  "content/Space/대표기업_뉴스_논문_특허.md"
-    },
-    {
-        "section":  "Space",
-        "title":  "업데이트_히스토리",
-        "path":  "content/Space/업데이트_히스토리.md"
     },
     {
         "section":  "Space",
