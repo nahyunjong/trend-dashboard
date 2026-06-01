@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trend Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand">
+      <h1>Trend</h1>
+      <p>뉴스, 논문, 특허, 주가 업데이트</p>
+    </div>
+    <nav id="nav"></nav>
+  </aside>
+  <main class="main">
+    <header class="topbar">
+      <div>
+        <h2 id="docTitle">Trend Dashboard</h2>
+        <p id="docMeta">왼쪽에서 문서를 선택하세요.</p>
+      </div>
+      <button id="openRaw" type="button">원문 열기</button>
+    </header>
+    <section id="content" class="content">
+      <h2>Trend Dashboard</h2>
+      <p>Trend 폴더의 Markdown 파일을 웹 화면에서 보기 위한 정적 사이트입니다.</p>
+    </section>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="site.js"></script>
+</body>
+</html>

@@ -1,0 +1,257 @@
+﻿[
+    {
+        "section":  "AI_Agent",
+        "title":  "Daily 2026-06-01",
+        "path":  "content/AI_Agent/일일_업데이트/2026-06-01.md"
+    },
+    {
+        "section":  "AI_Agent",
+        "title":  "대표기업_뉴스_논문_특허",
+        "path":  "content/AI_Agent/대표기업_뉴스_논문_특허.md"
+    },
+    {
+        "section":  "AI_Agent",
+        "title":  "업데이트_히스토리",
+        "path":  "content/AI_Agent/업데이트_히스토리.md"
+    },
+    {
+        "section":  "AI_Agent",
+        "title":  "주요기업",
+        "path":  "content/AI_Agent/주요기업.md"
+    },
+    {
+        "section":  "AI_Agent",
+        "title":  "주요논문_리포트",
+        "path":  "content/AI_Agent/주요논문_리포트.md"
+    },
+    {
+        "section":  "AI_Agent",
+        "title":  "트렌드_요약",
+        "path":  "content/AI_Agent/트렌드_요약.md"
+    },
+    {
+        "section":  "AI_Infrastructure",
+        "title":  "Daily 2026-06-01",
+        "path":  "content/AI_Infrastructure/일일_업데이트/2026-06-01.md"
+    },
+    {
+        "section":  "AI_Infrastructure",
+        "title":  "대표기업_뉴스_논문_특허",
+        "path":  "content/AI_Infrastructure/대표기업_뉴스_논문_특허.md"
+    },
+    {
+        "section":  "AI_Infrastructure",
+        "title":  "업데이트_히스토리",
+        "path":  "content/AI_Infrastructure/업데이트_히스토리.md"
+    },
+    {
+        "section":  "AI_Infrastructure",
+        "title":  "주요기업",
+        "path":  "content/AI_Infrastructure/주요기업.md"
+    },
+    {
+        "section":  "AI_Infrastructure",
+        "title":  "주요논문_리포트",
+        "path":  "content/AI_Infrastructure/주요논문_리포트.md"
+    },
+    {
+        "section":  "AI_Infrastructure",
+        "title":  "트렌드_요약",
+        "path":  "content/AI_Infrastructure/트렌드_요약.md"
+    },
+    {
+        "section":  "Connectivity_5GAdvanced_6G",
+        "title":  "Daily 2026-06-01",
+        "path":  "content/Connectivity_5GAdvanced_6G/일일_업데이트/2026-06-01.md"
+    },
+    {
+        "section":  "Connectivity_5GAdvanced_6G",
+        "title":  "대표기업_뉴스_논문_특허",
+        "path":  "content/Connectivity_5GAdvanced_6G/대표기업_뉴스_논문_특허.md"
+    },
+    {
+        "section":  "Connectivity_5GAdvanced_6G",
+        "title":  "업데이트_히스토리",
+        "path":  "content/Connectivity_5GAdvanced_6G/업데이트_히스토리.md"
+    },
+    {
+        "section":  "Connectivity_5GAdvanced_6G",
+        "title":  "주요기업",
+        "path":  "content/Connectivity_5GAdvanced_6G/주요기업.md"
+    },
+    {
+        "section":  "Connectivity_5GAdvanced_6G",
+        "title":  "주요논문_리포트",
+        "path":  "content/Connectivity_5GAdvanced_6G/주요논문_리포트.md"
+    },
+    {
+        "section":  "Connectivity_5GAdvanced_6G",
+        "title":  "트렌드_요약",
+        "path":  "content/Connectivity_5GAdvanced_6G/트렌드_요약.md"
+    },
+    {
+        "section":  "Cybersecurity",
+        "title":  "Daily 2026-06-01",
+        "path":  "content/Cybersecurity/일일_업데이트/2026-06-01.md"
+    },
+    {
+        "section":  "Cybersecurity",
+        "title":  "대표기업_뉴스_논문_특허",
+        "path":  "content/Cybersecurity/대표기업_뉴스_논문_특허.md"
+    },
+    {
+        "section":  "Cybersecurity",
+        "title":  "업데이트_히스토리",
+        "path":  "content/Cybersecurity/업데이트_히스토리.md"
+    },
+    {
+        "section":  "Cybersecurity",
+        "title":  "주요기업",
+        "path":  "content/Cybersecurity/주요기업.md"
+    },
+    {
+        "section":  "Cybersecurity",
+        "title":  "주요논문_리포트",
+        "path":  "content/Cybersecurity/주요논문_리포트.md"
+    },
+    {
+        "section":  "Cybersecurity",
+        "title":  "트렌드_요약",
+        "path":  "content/Cybersecurity/트렌드_요약.md"
+    },
+    {
+        "section":  "Edge_OnDevice_AI",
+        "title":  "Daily 2026-06-01",
+        "path":  "content/Edge_OnDevice_AI/일일_업데이트/2026-06-01.md"
+    },
+    {
+        "section":  "Edge_OnDevice_AI",
+        "title":  "대표기업_뉴스_논문_특허",
+        "path":  "content/Edge_OnDevice_AI/대표기업_뉴스_논문_특허.md"
+    },
+    {
+        "section":  "Edge_OnDevice_AI",
+        "title":  "업데이트_히스토리",
+        "path":  "content/Edge_OnDevice_AI/업데이트_히스토리.md"
+    },
+    {
+        "section":  "Edge_OnDevice_AI",
+        "title":  "주요기업",
+        "path":  "content/Edge_OnDevice_AI/주요기업.md"
+    },
+    {
+        "section":  "Edge_OnDevice_AI",
+        "title":  "주요논문_리포트",
+        "path":  "content/Edge_OnDevice_AI/주요논문_리포트.md"
+    },
+    {
+        "section":  "Edge_OnDevice_AI",
+        "title":  "트렌드_요약",
+        "path":  "content/Edge_OnDevice_AI/트렌드_요약.md"
+    },
+    {
+        "section":  "Mineral_Resources",
+        "title":  "Daily 2026-06-01",
+        "path":  "content/Mineral_Resources/일일_업데이트/2026-06-01.md"
+    },
+    {
+        "section":  "Mineral_Resources",
+        "title":  "대표기업_뉴스_논문_특허",
+        "path":  "content/Mineral_Resources/대표기업_뉴스_논문_특허.md"
+    },
+    {
+        "section":  "Mineral_Resources",
+        "title":  "업데이트_히스토리",
+        "path":  "content/Mineral_Resources/업데이트_히스토리.md"
+    },
+    {
+        "section":  "Mineral_Resources",
+        "title":  "주요기업",
+        "path":  "content/Mineral_Resources/주요기업.md"
+    },
+    {
+        "section":  "Mineral_Resources",
+        "title":  "주요논문_리포트",
+        "path":  "content/Mineral_Resources/주요논문_리포트.md"
+    },
+    {
+        "section":  "Mineral_Resources",
+        "title":  "트렌드_요약",
+        "path":  "content/Mineral_Resources/트렌드_요약.md"
+    },
+    {
+        "section":  "Quantum",
+        "title":  "Daily 2026-06-01",
+        "path":  "content/Quantum/일일_업데이트/2026-06-01.md"
+    },
+    {
+        "section":  "Quantum",
+        "title":  "대표기업_뉴스_논문_특허",
+        "path":  "content/Quantum/대표기업_뉴스_논문_특허.md"
+    },
+    {
+        "section":  "Quantum",
+        "title":  "업데이트_히스토리",
+        "path":  "content/Quantum/업데이트_히스토리.md"
+    },
+    {
+        "section":  "Quantum",
+        "title":  "주요기업",
+        "path":  "content/Quantum/주요기업.md"
+    },
+    {
+        "section":  "Quantum",
+        "title":  "주요논문_리포트",
+        "path":  "content/Quantum/주요논문_리포트.md"
+    },
+    {
+        "section":  "Quantum",
+        "title":  "트렌드_요약",
+        "path":  "content/Quantum/트렌드_요약.md"
+    },
+    {
+        "section":  "Space",
+        "title":  "Daily 2026-06-01",
+        "path":  "content/Space/일일_업데이트/2026-06-01.md"
+    },
+    {
+        "section":  "Space",
+        "title":  "대표기업_뉴스_논문_특허",
+        "path":  "content/Space/대표기업_뉴스_논문_특허.md"
+    },
+    {
+        "section":  "Space",
+        "title":  "업데이트_히스토리",
+        "path":  "content/Space/업데이트_히스토리.md"
+    },
+    {
+        "section":  "Space",
+        "title":  "주요기업",
+        "path":  "content/Space/주요기업.md"
+    },
+    {
+        "section":  "Space",
+        "title":  "주요논문_리포트",
+        "path":  "content/Space/주요논문_리포트.md"
+    },
+    {
+        "section":  "Space",
+        "title":  "트렌드_요약",
+        "path":  "content/Space/트렌드_요약.md"
+    },
+    {
+        "section":  "Stock",
+        "title":  "Stock 2026-06-01",
+        "path":  "content/주가_동향/2026-06-01.md"
+    },
+    {
+        "section":  "Summary",
+        "title":  "README",
+        "path":  "content/README.md"
+    },
+    {
+        "section":  "Summary",
+        "title":  "뉴스_논문_특허_트래킹_방법",
+        "path":  "content/뉴스_논문_특허_트래킹_방법.md"
+    }
+]
