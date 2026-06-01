@@ -1,11 +1,6 @@
 ﻿[
     {
         "section":  "AI_Agent",
-        "title":  "Monthly Research - AI_Agent - 2026-05",
-        "path":  "content/AI_Agent/월간_논문_특허/2026-05.md"
-    },
-    {
-        "section":  "AI_Agent",
         "title":  "대표기업_뉴스_논문_특허",
         "path":  "content/AI_Agent/대표기업_뉴스_논문_특허.md"
     },
@@ -28,11 +23,6 @@
         "section":  "AI_Agent",
         "title":  "트렌드_요약",
         "path":  "content/AI_Agent/트렌드_요약.md"
-    },
-    {
-        "section":  "AI_Infrastructure",
-        "title":  "Monthly Research - AI_Infrastructure - 2026-05",
-        "path":  "content/AI_Infrastructure/월간_논문_특허/2026-05.md"
     },
     {
         "section":  "AI_Infrastructure",
@@ -61,11 +51,6 @@
     },
     {
         "section":  "Connectivity_5GAdvanced_6G",
-        "title":  "Monthly Research - Connectivity_5GAdvanced_6G - 2026-05",
-        "path":  "content/Connectivity_5GAdvanced_6G/월간_논문_특허/2026-05.md"
-    },
-    {
-        "section":  "Connectivity_5GAdvanced_6G",
         "title":  "대표기업_뉴스_논문_특허",
         "path":  "content/Connectivity_5GAdvanced_6G/대표기업_뉴스_논문_특허.md"
     },
@@ -88,11 +73,6 @@
         "section":  "Connectivity_5GAdvanced_6G",
         "title":  "트렌드_요약",
         "path":  "content/Connectivity_5GAdvanced_6G/트렌드_요약.md"
-    },
-    {
-        "section":  "Cybersecurity",
-        "title":  "Monthly Research - Cybersecurity - 2026-05",
-        "path":  "content/Cybersecurity/월간_논문_특허/2026-05.md"
     },
     {
         "section":  "Cybersecurity",
@@ -121,11 +101,6 @@
     },
     {
         "section":  "Edge_OnDevice_AI",
-        "title":  "Monthly Research - Edge_OnDevice_AI - 2026-05",
-        "path":  "content/Edge_OnDevice_AI/월간_논문_특허/2026-05.md"
-    },
-    {
-        "section":  "Edge_OnDevice_AI",
         "title":  "대표기업_뉴스_논문_특허",
         "path":  "content/Edge_OnDevice_AI/대표기업_뉴스_논문_특허.md"
     },
@@ -148,11 +123,6 @@
         "section":  "Edge_OnDevice_AI",
         "title":  "트렌드_요약",
         "path":  "content/Edge_OnDevice_AI/트렌드_요약.md"
-    },
-    {
-        "section":  "Mineral_Resources",
-        "title":  "Monthly Research - Mineral_Resources - 2026-05",
-        "path":  "content/Mineral_Resources/월간_논문_특허/2026-05.md"
     },
     {
         "section":  "Mineral_Resources",
@@ -181,11 +151,6 @@
     },
     {
         "section":  "Quantum",
-        "title":  "Monthly Research - Quantum - 2026-05",
-        "path":  "content/Quantum/월간_논문_특허/2026-05.md"
-    },
-    {
-        "section":  "Quantum",
         "title":  "대표기업_뉴스_논문_특허",
         "path":  "content/Quantum/대표기업_뉴스_논문_특허.md"
     },
@@ -208,11 +173,6 @@
         "section":  "Quantum",
         "title":  "트렌드_요약",
         "path":  "content/Quantum/트렌드_요약.md"
-    },
-    {
-        "section":  "Space",
-        "title":  "Monthly Research - Space - 2026-05",
-        "path":  "content/Space/월간_논문_특허/2026-05.md"
     },
     {
         "section":  "Space",
