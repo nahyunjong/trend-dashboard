@@ -87,10 +87,38 @@ body {
 .content th { background: #eef2f7; text-align: left; }
 .content code { background: var(--code); padding: 2px 5px; border-radius: 4px; }
 .content pre { background: var(--code); padding: 14px; overflow: auto; border-radius: 6px; }
+.stock-chart {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  padding: 14px;
+  margin: 16px 0 22px;
+}
+.stock-chart-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  color: var(--muted);
+  font-size: 14px;
+}
+.stock-chart select {
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--text);
+  padding: 6px 8px;
+  border-radius: 6px;
+  font: inherit;
+}
+.stock-chart canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 @media (max-width: 860px) {
   body { grid-template-columns: 1fr; }
   .sidebar { height: auto; max-height: 45vh; border-right: 0; border-bottom: 1px solid var(--line); }
   .main { height: auto; }
   .topbar { align-items: flex-start; }
   .content { padding: 20px; }
+  .stock-chart-toolbar { align-items: flex-start; flex-direction: column; }
 }

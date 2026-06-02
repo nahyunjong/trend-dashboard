@@ -161,13 +161,8 @@
     },
     {
         "section":  "Stock",
-        "title":  "Stock 2026-06-01",
-        "path":  "content/주가_동향/2026-06-01.md"
-    },
-    {
-        "section":  "Stock",
-        "title":  "Stock 2026-06-02",
-        "path":  "content/주가_동향/2026-06-02.md"
+        "title":  "Stock 주가_동향",
+        "path":  "content/주가_동향/주가_동향.md"
     },
     {
         "section":  "Summary",
