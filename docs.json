@@ -163,20 +163,5 @@
         "section":  "Stock",
         "title":  "Stock 주가_동향",
         "path":  "content/주가_동향/주가_동향.md"
-    },
-    {
-        "section":  "Summary",
-        "title":  "README",
-        "path":  "content/README.md"
-    },
-    {
-        "section":  "Summary",
-        "title":  "뉴스_논문_특허_트래킹_방법",
-        "path":  "content/뉴스_논문_특허_트래킹_방법.md"
-    },
-    {
-        "section":  "Summary",
-        "title":  "인터넷_사이트_배포_가이드",
-        "path":  "content/인터넷_사이트_배포_가이드.md"
     }
 ]
